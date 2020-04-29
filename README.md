@@ -1,0 +1,10 @@
+# Personal webpage of Dinesh Krishna Natarajan
+
+[dinesh-k-natarajan.github.io](https://dinesh-k-natarajan.github.io)
+
+
+
+
+
+
+Based on [Jekyll template](https://github.com/murraco/jekyll-theme-minimal-resume) by Mauricio Urraco

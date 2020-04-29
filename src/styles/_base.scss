@@ -1,6 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat|Montserrat+Alternates|Raleway');
-@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great|Josefin+Slab|Antic+Slab');
-
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Lato);
 * {
     -webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
@@ -13,7 +12,7 @@ body {
     line-height: 1.5;
     color: #555;
 
-    font-family: 'Antic Slab', serif;
+    font-family: 'Lato Regular', sans-serif;
     font-weight: 400;
 }
 article, aside, figcaption, figure, footer, header, nav, section {

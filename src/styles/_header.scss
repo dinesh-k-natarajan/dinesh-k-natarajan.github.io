@@ -25,11 +25,9 @@
   .header-image {
     width: 25vw;
     height: 25vw;
-    border-radius: 50%;
-    border: 2px solid white;
     @media only screen and (min-width: $cut) {
-      width: 150px;
-      height: 150px;
+      width: 100px;
+      height: 100px;
     }
   }
   .site-title {

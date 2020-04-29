@@ -17,13 +17,26 @@
   text-align: center;
   color:#FFF;
   position: absolute;
-  top: 50%;
+  top: 60%;
   left: 50%;
   margin: 0 auto;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
+  .header-image {
+    width: 25vw;
+    height: 25vw;
+    border-radius: 100vw;
+    border: 2px solid white;
+    @media only screen and (min-width: $cut) {
+      width: 150px;
+      height: 150px;
+    }
+  }
+  h2 {
+    margin-top: 0;
+  }
   .site-title {
-    font-size: 50px;
+    font-size: 10vw;
     display: block;
     line-height: 1;
     color: #FFF;
@@ -34,7 +47,7 @@
     }
   }
   .site-description {
-    font-size: 20px;
+    font-size: 5vw;
     display: block;
     line-height: 1;
     color: #FFF;

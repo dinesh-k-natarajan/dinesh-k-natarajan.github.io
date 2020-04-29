@@ -25,36 +25,35 @@
   .header-image {
     width: 25vw;
     height: 25vw;
-    border-radius: 100vw;
+    border-radius: 50px;
+    overflow: hidden;
+    perspective: 1px;
     border: 2px solid white;
     @media only screen and (min-width: $cut) {
       width: 150px;
       height: 150px;
     }
   }
-  h2 {
-    margin-top: 0;
-  }
   .site-title {
-    font-size: 10vw;
+    font-size: 7vw;
     display: block;
     line-height: 1;
     color: #FFF;
     white-space: nowrap;
     @media only screen and (min-width:$cut){
       margin: 0;
-      font-size: 76px;
+      font-size: 60px;
     }
   }
   .site-description {
-    font-size: 5vw;
+    font-size: 4vw;
     display: block;
     line-height: 1;
     color: #FFF;
     margin-top: 10px;
     white-space: nowrap;
     @media only screen and (min-width:$cut){
-      font-size: 34px;
+      font-size: 30px;
     }
   }
 }

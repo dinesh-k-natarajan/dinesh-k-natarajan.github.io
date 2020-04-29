@@ -27,6 +27,7 @@
     display: block;
     line-height: 1;
     color: #FFF;
+    white-space: nowrap;
     @media only screen and (min-width:$cut){
       margin: 0;
       font-size: 76px;
@@ -38,6 +39,7 @@
     line-height: 1;
     color: #FFF;
     margin-top: 10px;
+    white-space: nowrap;
     @media only screen and (min-width:$cut){
       font-size: 34px;
     }

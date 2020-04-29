@@ -7,4 +7,4 @@
 
 
 
-Based on [Jekyll template](https://github.com/murraco/jekyll-theme-minimal-resume) by Mauricio Urraco
+Based on a [Jekyll template](https://github.com/murraco/jekyll-theme-minimal-resume) by Mauricio Urraco

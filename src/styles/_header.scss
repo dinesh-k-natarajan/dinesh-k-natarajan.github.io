@@ -32,8 +32,11 @@
       height: 20px;
     }
   }
+  h1 {
+    margin-top: 0;
+  }
   .site-title {
-    font-size: 10px;
+    font-size: 10vw;
     display: block;
     line-height: 1;
     color: #FFF;
@@ -44,7 +47,7 @@
     }
   }
   .site-description {
-    font-size: 5px;
+    font-size: 5vw;
     display: block;
     line-height: 1;
     color: #FFF;

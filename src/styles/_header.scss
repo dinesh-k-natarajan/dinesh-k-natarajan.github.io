@@ -12,7 +12,7 @@
 }
 
 .header {
-  font-family: "Roboto Slab", sans-serif;
+  font-family: "Montserrat", sans-serif;
   z-index: 1;
   text-align: center;
   color:#FFF;
@@ -23,13 +23,13 @@
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   .header-image {
-    width: 100px;
-    height: 100px;
+    width: 25vw;
+    height: 25vw;
+    border-radius: 100vw;
     border: 2px solid white;
     @media only screen and (min-width: $cut) {
-      width: 100px;
-      height: 100px;
-      border: 2px solid white;
+      width:  150px;
+      height: 150px;
     }
   }
   .site-title {

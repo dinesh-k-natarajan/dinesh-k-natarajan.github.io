@@ -29,6 +29,7 @@ GEM
     faraday (1.0.1)
       multipart-post (>= 1.2, < 3)
     ffi (1.12.2-x64-mingw32)
+    fileutils (1.4.1)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
     github-pages (204)
@@ -243,6 +244,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  fileutils
   github-pages
   wdm (>= 0.1.0)
 

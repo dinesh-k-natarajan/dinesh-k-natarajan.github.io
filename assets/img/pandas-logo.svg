@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg1077"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="pandas-logo.svg">
+  <defs
+     id="defs1071" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="183.78311"
+     inkscape:cy="176.56257"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1074">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-197)">
+    <g
+       id="g1059"
+       transform="matrix(0.17611832,0,0,0.21760321,-40.055213,243.03988)">
+      <path
+         id="path1020"
+         d="m 290.85,199.21 c -10.27,0 -20.73,-4.25 -27.28,-12.58 v 45 H 243 V 120.54 h 18.6 l 0.71,12.22 c 6.38,-9.39 17.71,-14.35 28.52,-14.35 20.73,0 36,17.37 36,40.4 0,23.03 -15.25,40.41 -35.98,40.4 z m -6.37,-65.55 c -12.05,0 -21.79,9.39 -21.79,25.16 0,15.77 9.74,25.18 21.79,25.18 12.05,0 21.79,-9.39 21.79,-25.16 0,-15.77 -9.74,-25.18 -21.79,-25.18 z"
+         class="cls-1"
+         inkscape:connector-curvature="0"
+         style="fill:#130754" />
+      <path
+         id="path1022"
+         d="m 404.36,197.1 -0.71,-12.22 c -6.38,9.39 -17.72,14.35 -28.53,14.34 -20.73,0 -36,-17.36 -36,-40.39 0,-23.03 15.24,-40.4 36,-40.39 10.81,0 22.15,5 28.53,14.35 l 0.71,-12.22 H 423 v 76.53 z m -22.85,-63.43 c -12.05,0 -21.79,9.39 -21.8,25.16 -0.01,15.77 9.74,25.17 21.79,25.17 12.05,0 21.8,-9.39 21.8,-25.16 0,-15.77 -9.74,-25.17 -21.79,-25.17 z"
+         class="cls-1"
+         inkscape:connector-curvature="0"
+         style="fill:#130754" />
+      <path
+         id="path1024"
+         d="m 494.87,197.11 v -42.34 c 0,-14.88 -5.13,-19.84 -14.52,-19.84 -9.75,0 -20.38,8.85 -20.38,19.48 v 42.7 h -20.56 v -76.54 h 18.79 l 0.89,14.18 c 5.14,-9.75 16.65,-16.3 28.35,-16.3 20.37,0 28,14.18 28,33.13 v 45.54 z"
+         class="cls-1"
+         inkscape:connector-curvature="0"
+         style="fill:#130754" />
+      <path
+         id="path1026"
+         d="m 590.77,197.13 -0.71,-12.23 c -6.38,9.39 -17.72,14.35 -28.52,14.35 -20.73,0 -36,-17.37 -36,-40.4 0,-23.03 15.24,-40.39 36,-40.39 10.27,0 20.72,4.26 27.28,12.58 V 90.83 h 20.56 v 106.3 z M 567.92,133.7 c -12,0 -21.79,9.39 -21.79,25.15 0,15.76 9.74,25.15 21.79,25.15 12.05,0 21.79,-9.38 21.79,-25.15 0,-15.77 -9.71,-25.15 -21.79,-25.15 z"
+         class="cls-1"
+         inkscape:connector-curvature="0"
+         style="fill:#130754" />
+      <path
+         id="path1028"
+         d="m 686.6,197.14 -0.71,-12.22 c -6.38,9.39 -17.72,14.34 -28.53,14.34 -20.73,0 -36,-17.36 -36,-40.4 0,-23.04 15.24,-40.39 36,-40.39 10.81,0 22.15,5 28.53,14.36 l 0.71,-12.23 h 18.6 v 76.53 z m -22.85,-63.43 c -12,0 -21.79,9.39 -21.8,25.16 -0.01,15.77 9.75,25.13 21.79,25.13 12.04,0 21.8,-9.39 21.8,-25.16 0,-15.77 -9.74,-25.13 -21.79,-25.13 z"
+         class="cls-1"
+         inkscape:connector-curvature="0"
+         style="fill:#130754" />
+      <path
+         id="path1030"
+         d="m 750.73,199.63 a 60.16,60.16 0 0 1 -30.65,-8.69 l 3.37,-14.17 c 6.2,3.72 15.59,8.51 26.93,8.51 8.15,0 13.82,-2.48 13.82,-8.86 0,-5.49 -5.85,-7.44 -16.3,-9.92 -18.78,-4.08 -25.51,-14 -25.51,-24.81 0,-12.05 9.39,-23.38 30.12,-23.38 12.58,0 23.57,5.49 26,6.91 l -3.37,13.47 A 44.59,44.59 0 0 0 753,132.31 c -8.32,0 -12.4,2.83 -12.4,7.44 0,5.13 5.32,7.44 13.46,9.39 20.2,4.25 28.35,13.64 28.35,23.92 0.04,16.47 -12.01,26.57 -31.68,26.57 z"
+         class="cls-1"
+         inkscape:connector-curvature="0"
+         style="fill:#130754" />
+    </g>
+    <g
+       id="g1069"
+       transform="matrix(0.28965733,0,0,0.27670825,20.095969,184.09108)">
+      <rect
+         id="rect1032"
+         height="50.02"
+         width="24.09"
+         y="68.419998"
+         x="74.879997"
+         class="cls-1"
+         style="fill:#130754" />
+      <rect
+         id="rect1034"
+         height="50.02"
+         width="24.09"
+         y="171.17"
+         x="74.879997"
+         class="cls-1"
+         style="fill:#130754" />
+      <rect
+         id="rect1036"
+         height="23.6"
+         width="24.09"
+         y="133.03999"
+         x="74.879997"
+         class="cls-2"
+         style="fill:#ffca00" />
+      <rect
+         id="rect1038"
+         height="166.27"
+         width="24.09"
+         y="109.55"
+         x="36.189999"
+         class="cls-1"
+         style="fill:#130754" />
+      <rect
+         id="rect1040"
+         height="50.02"
+         width="24.09"
+         y="212.44"
+         x="112.78"
+         class="cls-1"
+         style="fill:#130754" />
+      <rect
+         id="rect1042"
+         height="50.02"
+         width="24.09"
+         y="109.61"
+         x="112.78"
+         class="cls-1"
+         style="fill:#130754" />
+      <rect
+         id="rect1044"
+         height="23.6"
+         width="24.09"
+         y="174.23"
+         x="112.78"
+         class="cls-3"
+         style="fill:#e70488" />
+      <rect
+         id="rect1046"
+         height="166.27"
+         width="24.09"
+         y="55.389999"
+         x="150.67"
+         class="cls-1"
+         style="fill:#130754" />
+    </g>
+  </g>
+</svg>
